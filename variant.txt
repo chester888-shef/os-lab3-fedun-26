@@ -1,0 +1,12 @@
+NAME=Федунь Максим
+N=26
+NT=4
+INC=720
+B=4
+P=1
+C=3
+MEM_MB=272
+DELTA=0.4
+TOKEN=LAB3-26-27
+OS=Linux Mint 22.3
+LANGUAGE=Python; TOOLCHAIN=CPython 3.10+
